@@ -19,3 +19,8 @@
 	5. AddTorque와 MoveRotation의 차이
 	6. AddExplosionForce 사용 방법
 
+- 유니티 튜토리얼 Part 4 - 컬라이더
+	1. 컬라이더 사용
+	2. RayCast 사용
+	3. OnTriggerEnter, OnTriggerStay, OnTriggerExit 사용법
+
