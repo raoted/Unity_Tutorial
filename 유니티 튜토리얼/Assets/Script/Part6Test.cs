@@ -7,10 +7,10 @@ using UnityEngine.EventSystems;
 public class Part6Test : MonoBehaviour
 {
     [SerializeField]
-    private GameObject go_target;
+    private GameObject go_target = null;
 
     [SerializeField]
-    private float speed;
+    private float speed = 0f;
 
     private Vector3 difValue;
     private Camera theCam;

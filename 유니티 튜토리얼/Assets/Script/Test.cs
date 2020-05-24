@@ -6,7 +6,7 @@ public class Test : MonoBehaviour
 {
     Vector3 rotation;
     [SerializeField]
-    private GameObject go_camera;
+    private GameObject go_camera = null;
 
     private void Start()
     {

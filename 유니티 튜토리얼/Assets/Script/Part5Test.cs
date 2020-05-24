@@ -6,11 +6,11 @@ using UnityEngine;
 public class Part5Test : MonoBehaviour
 {
     [SerializeField]
-    private Material red_mat;
+    private Material red_mat = null;
     [SerializeField]
-    private Material green_mat;
+    private Material green_mat = null;
 
-    private MeshRenderer mesh;
+    private MeshRenderer mesh = null;
     // Start is called before the first frame update
     void Start()
     {
